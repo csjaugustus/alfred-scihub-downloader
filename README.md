@@ -21,10 +21,12 @@ Just paste the target DOI link or index.
 
 Below are all acceptable input formats:
 
-`https://doi.org/10.1016/j.socscimed.2017.03.024`
-`doi.org/10.1016/j.socscimed.2017.03.024`
-`/10.1016/j.socscimed.2017.03.024`
-`10.1016/j.socscimed.2017.03.024`
+```
+https://doi.org/10.1016/j.socscimed.2017.03.024
+doi.org/10.1016/j.socscimed.2017.03.024
+/10.1016/j.socscimed.2017.03.024
+10.1016/j.socscimed.2017.03.024
+```
 
 Then hit `Enter` to download the retrieved article straight away (if it is found), or `CMD + Enter` to go to the SciHub page instead.
 
